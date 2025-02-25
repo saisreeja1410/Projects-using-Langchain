@@ -1,0 +1,26 @@
+# Core dependencies
+langchain
+langchain_google_genai
+langchain_core
+langchain_pinecone
+langchain_huggingface
+langchain_community
+
+# Embeddings & Vector Store
+pinecone-client
+sentence-transformers
+huggingface-hub
+
+# Web & API interaction
+fastapi
+flask
+streamlit
+dotenv
+requests
+
+# Other utilities
+pydantic
+tqdm
+numpy
+pandas
+matplotlib
